@@ -1,3 +1,5 @@
+// This challenge consists of calculating the BMI
+
 <?php
 
 $altura = 1.70;
